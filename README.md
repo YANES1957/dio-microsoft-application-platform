@@ -1,19 +1,31 @@
-# 🚀 Projeto - Microsoft Application Platform | DIO
+# 🚀 Microsoft Application Platform | Projeto DIO
 
-Este repositório foi criado como parte do desafio prático da Digital Innovation One (DIO),
-com foco na aplicação dos conceitos aprendidos sobre a Microsoft Application Platform.
+Este repositório contém o projeto prático desenvolvido durante a formação
+**Microsoft Application Platform** da Digital Innovation One (DIO).
 
-O objetivo do projeto é consolidar conhecimentos sobre cloud computing, arquitetura de
-aplicações modernas e integração com serviços Microsoft.
+O objetivo deste projeto é consolidar, na prática, os conceitos fundamentais
+relacionados à computação em nuvem, arquitetura de aplicações modernas e uso
+do ecossistema Microsoft, com foco em organização, versionamento e boas práticas.
 
 ---
 
-## 🧠 Conceitos Aplicados
+## 🎯 Objetivo do Projeto
 
-- Computação em nuvem com Microsoft Azure
+- Aplicar conceitos de cloud computing com a plataforma Microsoft
+- Entender a importância da arquitetura de aplicações modernas
+- Utilizar o Git e o GitHub como ferramentas de versionamento profissional
+- Construir um projeto organizado para portfólio técnico
+
+---
+
+## 🧠 Conceitos Trabalhados
+
+- Computação em nuvem (Cloud Computing)
+- Plataforma Microsoft Azure
 - Arquitetura de aplicações modernas
-- Integração entre serviços
-- Boas práticas de versionamento com Git e GitHub
+- Organização de projetos
+- Versionamento de código com Git
+- Uso do Git Bash no fluxo de desenvolvimento
 
 ---
 
@@ -22,36 +34,45 @@ aplicações modernas e integração com serviços Microsoft.
 - Microsoft Azure
 - Git
 - GitHub
+- Git Bash (ambiente de trabalho)
 
 ---
 
 ## 📸 Demonstração
 
-Os prints abaixo demonstram etapas do projeto e aprendizados obtidos durante o curso.
+Os arquivos e commits deste repositório demonstram:
+- Estruturação correta de um projeto
+- Uso adequado de versionamento
+- Organização voltada para apresentação profissional
 
-> (adicione imagens na pasta `/images`)
+*(Imagens e exemplos podem ser adicionados na pasta `/images`)*
 
 ---
 
 ## 💡 Aprendizados e Insights
 
-- Importância de planejar a arquitetura antes da implementação
-- Facilidade de integração entre serviços da Microsoft
-- Organização de projetos para portfólio profissional
-- Uso do Git Bash no fluxo de desenvolvimento
+Durante o desenvolvimento deste projeto, foi possível compreender melhor:
+
+- A importância de planejar antes de implementar
+- Como a nuvem facilita escalabilidade e manutenção
+- A relevância de manter um histórico de commits limpo e organizado
+- Como o Git Bash faz parte do dia a dia de um desenvolvedor
 
 ---
 
 ## 🚀 Possibilidades de Evolução
 
-- Automação de deploy (CI/CD)
+Este projeto pode ser expandido futuramente com:
+
+- Integração de novos serviços Azure
+- Automatização de processos (CI/CD)
 - Monitoramento e observabilidade
-- Inclusão de novos serviços Azure
-- Melhoria em segurança e escalabilidade
+- Melhoria em segurança e boas práticas de cloud
 
 ---
 
 ## 👤 Autor
 
 **Roberto César Yanes**  
-Projeto desenvolvido para a formação da Digital Innovation One (DIO).
+Projeto desenvolvido como parte da formação da  
+**Digital Innovation One (DIO)**.
